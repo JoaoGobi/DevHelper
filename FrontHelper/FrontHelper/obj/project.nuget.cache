@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qAZyby0DmYTYdaZ41m+IznhUxbC9PxxnU7n87YnGUW4qTXNf7+71HDJ9xzHnN5HOyf3d5Jrlo1lHVwO5frFC8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João Vitor\\source\\repos\\FrontHelper\\FrontHelper\\FrontHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Vitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

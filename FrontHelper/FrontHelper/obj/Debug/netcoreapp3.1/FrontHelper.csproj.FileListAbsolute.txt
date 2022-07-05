@@ -1,0 +1,35 @@
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.exe
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.deps.json
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.runtimeconfig.json
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.runtimeconfig.dev.json
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.dll
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.pdb
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.GenerateResource.cache
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.AssemblyInfoInputs.cache
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.AssemblyInfo.cs
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.CoreCompileInputs.cache
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.dll
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.pdb
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.genruntimeconfig.cache
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.AssemblyReference.cache
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.Menu.resources
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.gobi\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.GeraForm.resources
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.exe
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.deps.json
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.runtimeconfig.json
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.runtimeconfig.dev.json
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.dll
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\bin\Debug\netcoreapp3.1\FrontHelper.pdb
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.AssemblyReference.cache
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.GeraForm.resources
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.GeraTexto.resources
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.Menu.resources
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.GenerateResource.cache
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.AssemblyInfoInputs.cache
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.AssemblyInfo.cs
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.dll
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.pdb
+C:\Users\João Vitor\source\repos\FrontHelper\FrontHelper\obj\Debug\netcoreapp3.1\FrontHelper.genruntimeconfig.cache
