@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/FrontHelper/.vs/FrontHelper/FileContentIndex
+/FrontHelper/.vs/FrontHelper/v17
+/FrontHelper/bin
+/FrontHelper/obj
+/FrontHelper/FrontHelper/obj/Debug/netcoreapp3.1
